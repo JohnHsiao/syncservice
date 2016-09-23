@@ -14,7 +14,7 @@ import dao.ResourceReader;
 /**
  * 主程式
  * @author Shawn
- * @category
+ * @see &^%$&!!!!
  */
 public class Main {
 	
@@ -70,7 +70,6 @@ public class Main {
 		System.out.println("------------------------");
 		d2=new Date();
 		System.out.println("本次排程工作費時 "+(d2.getTime()-d1.getTime())+"毫秒");
-		
 		/*Timer timer=new Timer();
 		timer.schedule(new TimerTask(){
 		public void run(){		
