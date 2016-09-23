@@ -14,7 +14,7 @@ import dao.ResourceReader;
 /**
  * 主程式
  * @author Shawn
- *
+ * @category
  */
 public class Main {
 	
